@@ -1,7 +1,7 @@
 import re
 import requests
 
-BASE_URL = "http://10.48.154.211"
+BASE_URL = "url_here"
 LOGIN_URL = f"{BASE_URL}/login"
 
 session = requests.Session()
